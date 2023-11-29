@@ -13,8 +13,8 @@ ListWisata wisata = ListWisata(
     Image: 'lib/models/gambar/fatahillah/fatahillahLuar.jpg',
     Tanggal: 'Open Everyday',
     place: "Museum Fatahillah",
-    open: "08:00 - 15:00 WIB",
-    opentime: "08:00",
+    open: "Open Everyday",
+    opentime: "08:00 - 15:00 WIB",
     ticketPrice: "Rp.5.000",
     Description:
         "Museum Fatahillah, juga dikenal sebagai Museum Sejarah Jakarta, terletak di Kota Tua, Jakarta, Indonesia. Bangunan tersebut merupakan bekas Balai Kota Batavia yang dibangun pada abad ke-18. Museum ini menyajikan koleksi artefak sejarah yang mencakup masa kolonial Belanda hingga masa kemerdekaan Indonesia. Koleksinya mencakup peralatan rumah tangga, pakaian tradisional, senjata, dan berbagai benda bersejarah lainnya. ");

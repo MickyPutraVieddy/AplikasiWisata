@@ -13,8 +13,8 @@ ListWisata wisata = ListWisata(
     Image: 'lib/models/gambar/monas/monasluar.jpg',
     Tanggal: 'Open Everyday',
     place: "Monas",
-    open: "06:00 - 18:00",
-    opentime: "08:00",
+    open: "Open Everyday",
+    opentime: "06:00 - 18:00 WIB",
     ticketPrice: "Rp.15.000",
     Description:
         "Monas juga memiliki Museum Nasional di bagian bawahnya yang menampilkan sejarah perjuangan kemerdekaan Indonesia. Monumen Nasional bukan hanya destinasi wisata, tetapi juga tempat untuk merayakan peristiwa nasional dan kegiatan seremonial penting.");

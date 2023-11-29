@@ -13,8 +13,8 @@ ListWisata wisata = ListWisata(
     Image: 'lib/models/gambar/prasasti/prasastiDalem.jpg',
     Tanggal: 'Open Everyday',
     place: "Museum Prasasti",
-    open: "09:00 - 15:00",
-    opentime: "09:00",
+    open: "Open Everyday",
+    opentime: "09:00 - 15:00 WIB",
     ticketPrice: "Rp.5.000",
     Description:
         "Museum Prasasti terletak di Jakarta, Indonesia, dan dikenal sebagai tempat penyimpanan prasasti dan artefak sejarah lainnya. Museum ini terletak di kompleks Taman Prasasti, yang dulunya merupakan pemakaman Belanda pada abad ke-18 dan kemudian dijadikan museum pada tahun 1975. Koleksi Museum Prasasti mencakup prasasti-prasasti kuno, batu nisan, dan artefak sejarah lainnya yang mencerminkan berbagai periode sejarah di Indonesia. Prasasti-prasasti ini memberikan informasi berharga tentang kehidupan sosial dan budaya masyarakat pada masa lalu. ");

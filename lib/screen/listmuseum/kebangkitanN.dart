@@ -13,8 +13,8 @@ ListWisata wisata = ListWisata(
     Image: 'lib/models/gambar/kebangkitanN/kebangkitanLuar.jpg',
     Tanggal: 'Open Everyday',
     place: "Museum Kebangkitan Nasional",
-    open: "08:00 - 16:00",
-    opentime: "07:00",
+    open: "Open Everyday",
+    opentime: "08:00 - 16:00 WIB",
     ticketPrice: "Rp.15.000",
     Description:
         "Muuseum Kebangkitan Nasional merupakan Koleksi museum mencakup artefak, foto, dan dokumentasi yang berkaitan dengan peristiwa-peristiwa penting dalam sejarah perjuangan kemerdekaan Indonesia. Beberapa di antaranya mungkin berkaitan dengan peran Soekarno, proklamator kemerdekaan Indonesia, dan tokoh-tokoh lain dalam memimpin perjuangan nasional.");

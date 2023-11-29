@@ -13,8 +13,8 @@ ListWisata wisata = ListWisata(
     Image: 'lib/models/gambar/nasional/NasionalLuar.jpg',
     Tanggal: 'Open Everyday',
     place: "Museum Nasional",
-    open: "08:00 - 16:00 WIB",
-    opentime: "08:00",
+    open: "Open Everyday",
+    opentime: "08:00 - 16:00 WIB",
     ticketPrice: "Rp.35.000",
     Description:
         "Per 2022, Museum Nasional Indonesia, yang juga dikenal sebagai Museum Gajah, terletak di Jakarta, Indonesia. Museum ini adalah museum nasional dan terbesar di Indonesia, menampilkan koleksi yang kaya dari berbagai periode sejarah dan kebudayaan di nusantara. Koleksi meliputi arkeologi, etnografi, numismatika, sejarah, seni rupa, dan lainnya.");
