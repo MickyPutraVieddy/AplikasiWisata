@@ -11,13 +11,13 @@ ListWisata wisata = ListWisata(
       'lib/models/gambar/fatahillah/fatahillahDalem.jpg',
     ],
     Image: 'lib/models/gambar/fatahillah/fatahillahLuar.jpg',
-    Tanggal: '08:00 - 10:00',
+    Tanggal: 'Open Everyday',
     place: "Museum Fatahillah",
-    open: "07:00 - 12:00",
-    opentime: "07;00",
-    ticketPrice: "Rp.50.000.00",
+    open: "08:00 - 15:00 WIB",
+    opentime: "08:00",
+    ticketPrice: "Rp.5.000",
     Description:
-        "Monas juga memiliki Museum Nasional di bagian bawahnya yang menampilkan sejarah perjuangan kemerdekaan Indonesia. Monumen Nasional bukan hanya destinasi wisata, tetapi juga tempat untuk merayakan peristiwa nasional dan kegiatan seremonial penting.");
+        "Museum Fatahillah, juga dikenal sebagai Museum Sejarah Jakarta, terletak di Kota Tua, Jakarta, Indonesia. Bangunan tersebut merupakan bekas Balai Kota Batavia yang dibangun pada abad ke-18. Museum ini menyajikan koleksi artefak sejarah yang mencakup masa kolonial Belanda hingga masa kemerdekaan Indonesia. Koleksinya mencakup peralatan rumah tangga, pakaian tradisional, senjata, dan berbagai benda bersejarah lainnya. ");
 
 class Screenfatahillah extends StatefulWidget {
   @override

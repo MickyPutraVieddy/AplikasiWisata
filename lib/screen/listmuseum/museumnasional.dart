@@ -11,15 +11,20 @@ ListWisata wisata = ListWisata(
       'lib/models/gambar/nasional/nasionalDalem.jpeg',
     ],
     Image: 'lib/models/gambar/nasional/NasionalLuar.jpg',
-    Tanggal: '08:00 - 10:00',
+    Tanggal: 'Open Everyday',
     place: "Museum Nasional",
-    open: "07:00 - 12:00",
-    opentime: "07;00",
-    ticketPrice: "Rp.50.000.00",
+    open: "08:00 - 16:00 WIB",
+    opentime: "08:00",
+    ticketPrice: "Rp.35.000",
     Description:
-        "Monas juga memiliki Museum Nasional di bagian bawahnya yang menampilkan sejarah perjuangan kemerdekaan Indonesia. Monumen Nasional bukan hanya destinasi wisata, tetapi juga tempat untuk merayakan peristiwa nasional dan kegiatan seremonial penting.");
+        "Per 2022, Museum Nasional Indonesia, yang juga dikenal sebagai Museum Gajah, terletak di Jakarta, Indonesia. Museum ini adalah museum nasional dan terbesar di Indonesia, menampilkan koleksi yang kaya dari berbagai periode sejarah dan kebudayaan di nusantara. Koleksi meliputi arkeologi, etnografi, numismatika, sejarah, seni rupa, dan lainnya.");
 
-class ScreenNasional extends StatelessWidget {
+class ScreenNasional extends StatefulWidget {
+  @override
+  State<ScreenNasional> createState() => _ScreenNasionalState();
+}
+
+class _ScreenNasionalState extends State<ScreenNasional> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -11,13 +11,13 @@ ListWisata wisata = ListWisata(
       'lib/models/gambar/kebangkitanN/kebangkitanDalem.jpg',
     ],
     Image: 'lib/models/gambar/kebangkitanN/kebangkitanLuar.jpg',
-    Tanggal: '08:00 - 10:00',
+    Tanggal: 'Open Everyday',
     place: "Museum Kebangkitan Nasional",
-    open: "07:00 - 12:00",
-    opentime: "07;00",
-    ticketPrice: "Rp.50.000.00",
+    open: "08:00 - 16:00",
+    opentime: "07:00",
+    ticketPrice: "Rp.15.000",
     Description:
-        "Monas juga memiliki Museum Nasional di bagian bawahnya yang menampilkan sejarah perjuangan kemerdekaan Indonesia. Monumen Nasional bukan hanya destinasi wisata, tetapi juga tempat untuk merayakan peristiwa nasional dan kegiatan seremonial penting.");
+        "Muuseum Kebangkitan Nasional merupakan Koleksi museum mencakup artefak, foto, dan dokumentasi yang berkaitan dengan peristiwa-peristiwa penting dalam sejarah perjuangan kemerdekaan Indonesia. Beberapa di antaranya mungkin berkaitan dengan peran Soekarno, proklamator kemerdekaan Indonesia, dan tokoh-tokoh lain dalam memimpin perjuangan nasional.");
 
 class ScreenKebangkitan extends StatefulWidget {
   @override

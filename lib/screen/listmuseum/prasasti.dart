@@ -11,13 +11,13 @@ ListWisata wisata = ListWisata(
       'lib/models/gambar/prasasti/prasastiLuar.jpeg',
     ],
     Image: 'lib/models/gambar/prasasti/prasastiDalem.jpg',
-    Tanggal: '08:00 - 10:00',
+    Tanggal: 'Open Everyday',
     place: "Museum Prasasti",
-    open: "07:00 - 12:00",
-    opentime: "07;00",
-    ticketPrice: "Rp.50.000.00",
+    open: "09:00 - 15:00",
+    opentime: "09:00",
+    ticketPrice: "Rp.5.000",
     Description:
-        "Monas juga memiliki Museum Nasional di bagian bawahnya yang menampilkan sejarah perjuangan kemerdekaan Indonesia. Monumen Nasional bukan hanya destinasi wisata, tetapi juga tempat untuk merayakan peristiwa nasional dan kegiatan seremonial penting.");
+        "Museum Prasasti terletak di Jakarta, Indonesia, dan dikenal sebagai tempat penyimpanan prasasti dan artefak sejarah lainnya. Museum ini terletak di kompleks Taman Prasasti, yang dulunya merupakan pemakaman Belanda pada abad ke-18 dan kemudian dijadikan museum pada tahun 1975. Koleksi Museum Prasasti mencakup prasasti-prasasti kuno, batu nisan, dan artefak sejarah lainnya yang mencerminkan berbagai periode sejarah di Indonesia. Prasasti-prasasti ini memberikan informasi berharga tentang kehidupan sosial dan budaya masyarakat pada masa lalu. ");
 
 class Screenprasasti extends StatefulWidget {
   @override
