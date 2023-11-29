@@ -19,7 +19,12 @@ ListWisata wisata = ListWisata(
     Description:
         "Monas juga memiliki Museum Nasional di bagian bawahnya yang menampilkan sejarah perjuangan kemerdekaan Indonesia. Monumen Nasional bukan hanya destinasi wisata, tetapi juga tempat untuk merayakan peristiwa nasional dan kegiatan seremonial penting.");
 
-class ScreenMonas extends StatelessWidget {
+class ScreenMonas extends StatefulWidget {
+  @override
+  State<ScreenMonas> createState() => _ScreenMonasState();
+}
+
+class _ScreenMonasState extends State<ScreenMonas> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
